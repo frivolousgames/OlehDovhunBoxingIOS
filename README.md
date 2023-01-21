@@ -1,3 +1,0 @@
-# OlehDovhunBoxingIOS
-
-IOS version
